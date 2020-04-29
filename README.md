@@ -11,8 +11,8 @@ Georgian Open-source Community-სთვის განკუთვნილი
 ### Back-end
 [x] გავაკეთოთ nodejs setup
 [x] დავაინსტალოთ საჭიღო package-ები
-[] მოვიფიქროთ database სქემა (MongoDB)
-[] გავაკეთოთ api setup
+[x] მოვიფიქროთ database სქემა (MongoDB)
+[x] გავაკეთოთ api
 
 ### Front-end
 [] გავაკეთოთ vue setup (vue-cli)
