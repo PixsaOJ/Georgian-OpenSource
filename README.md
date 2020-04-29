@@ -9,16 +9,16 @@ Georgian Open-source Community-სთვის განკუთვნილი
 
 
 ### Back-end
-[x] გავაკეთოთ nodejs setup
+[X] გავაკეთოთ nodejs setup
 
-[x] დავაინსტალოთ საჭიღო package-ები
+[X] დავაინსტალოთ საჭიღო package-ები
 
-[x] მოვიფიქროთ database სქემა (MongoDB)
+[X] მოვიფიქროთ database სქემა (MongoDB)
 
-[x] გავაკეთოთ api
+[X] გავაკეთოთ api
 
 ### Front-end
-[] გავაკეთოთ vue setup (vue-cli)
+[X] გავაკეთოთ vue setup (vue-cli)
 
 [] გავაკეთოთ მთავარი გვერდი (route)
 

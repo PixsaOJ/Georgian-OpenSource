@@ -25,8 +25,10 @@ app.use(express.json());
 
 // Routes
 app.get('/', (req, res) => {
-    res.status(200);
-    res.send('Hello World!');
+    res.status(418);
+    res.json({
+        message: '200 OK ⭕ BOOMER',
+    });
 });
 app.use('/api/users', require('./api/users.js'));
 app.use('/api/jobs', require('./api/jobs.js'));
